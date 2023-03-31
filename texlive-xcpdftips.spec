@@ -1,6 +1,6 @@
 Name:		texlive-xcpdftips
 Version:	50449
-Release:	1
+Release:	2
 Summary:	Natbib citations with PDF tooltips
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcpdftips
