@@ -3,7 +3,7 @@ Version:	50449
 Release:	2
 Summary:	Natbib citations with PDF tooltips
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcpdftips
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcpdftips
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcpdftips.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcpdftips.doc.r%{version}.tar.xz
